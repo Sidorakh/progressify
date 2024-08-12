@@ -1,0 +1,21 @@
+{
+  "$GMExtensionConfigSet": "GMExtensionConfigSet",
+  "configurables": {
+    "e2dab330-d75e-4fdf-8f84-f4e558aeb1ec": null,
+    "5203bef3-9d40-45fe-939b-d94383bfed6a": null,
+    "b4e2d568-16a7-4982-8894-ef7efdbd2df9": null,
+    "41928f33-9c00-4332-82ce-e3982d7aae39": {
+      "Default": {
+        "value": "fullscreen"
+      }
+    },
+    "632cd5c9-e91c-4f19-a60e-dac0eb005132": null,
+    "047c15c4-cf70-4901-a00a-7306d1a87f31": null,
+    "f32afca7-fb9f-4342-bc8b-7f811a591414": null,
+    "fab67e83-0de0-46f0-a7cf-257265392bb7": null,
+    "9fae7266-91f3-4f02-b088-9a24af8a3b9b": null,
+    "6aeb9400-b830-423a-afb4-e5beb0b8853d": null,
+    "3203553c-cfba-42bd-9355-53c3a7ecabd6": null,
+    "82897480-1276-4ed0-b78b-a01591e025c3": null
+  }
+}
