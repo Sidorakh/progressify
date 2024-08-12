@@ -58,6 +58,6 @@ try {
 sw = sw.replace("{{CACHE_NAME}}",manifest.name.replaceAll(' ','_')+'-'+cachebust);
 sw = sw.replace("\"{{ASSET_LIST}}\"",JSON.stringify(cache_files,null,4));
 
-fs.writeFileSync(path.join(process.env.YYoutputFolder,process.env.YYEXTOPT_progressify_service_worker_fname),sw);
+fs.writeFileSync(path.join(process.env.YYoutputFolder,'sw.js'),sw);
 
 console.log(path.join(process.env.YYoutputFolder, 'manifest.json'));
